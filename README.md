@@ -43,9 +43,7 @@
 
 # [Screenshots] <a name="#screenshots"></a>
 
-![screenshot](./src/assets/img1.PNG)
-
-![screenshot](./src/assets/img2.PNG)
+![screenshot](./src/assets/img1.PNG) [screenshot](./src/assets/img2.PNG)
 
 
 ## 🛠 Built With <a name="built-with"></a>
