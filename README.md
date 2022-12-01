@@ -43,7 +43,9 @@
 
 # [Screenshots] <a name="#screenshots"></a>
 
-![screenshot](./src/assets/img1.PNG) [screenshot](./src/assets/img2.PNG)
+![screenshot](./src/assets/img1.PNG)
+
+![screenshot](./src/assets/img2.PNG)
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -174,6 +176,7 @@ If you like this project...
 
 - Microverse code reviewers for there guidance
 - Data from [CoinCap](https://docs.coincap.io/)
+- Design idea by [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
