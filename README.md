@@ -18,6 +18,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+  - [🚀 Live and Video Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -42,11 +43,9 @@
 
 # [Screenshots] <a name="#screenshots"></a>
 
-![screenshot]()
+![screenshot](./src/assets/img1.PNG)
 
-![screenshot]()
-
-![screenshot]()
+![screenshot](./src/assets/img2.PNG)
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -91,8 +90,18 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[]**
-- **[]**
+- **[Home Page Displaying All Coins]**
+- **[Details Page Displaying Details Of a Selected Coin]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo and Video Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://yourdeployedapplicationlink.com)
+
+- [Video Demo Link](https://www.loom.com/share/a311c2a9ae784da899bb25702447921d)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -167,6 +176,7 @@ If you like this project...
 
 - Microverse code reviewers for there guidance
 - Data from [CoinCap](https://docs.coincap.io/)
+- Design idea by [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
