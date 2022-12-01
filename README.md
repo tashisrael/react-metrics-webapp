@@ -90,8 +90,8 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[]**
-- **[]**
+- **[Home Page Displaying All Coins]**
+- **[Details Page Displaying Details Of a Selected Coin]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
