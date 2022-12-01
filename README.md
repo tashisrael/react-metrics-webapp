@@ -99,7 +99,7 @@
 
 ## 🚀 Live Demo and Video Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://cryptocurrency-coins-react.netlify.app/)
 
 - [Video Demo Link](https://www.loom.com/share/a311c2a9ae784da899bb25702447921d)
 
